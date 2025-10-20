@@ -60,7 +60,6 @@ Java + AWS + React
 
 ## 📫 Reach Me
 **LinkedIn:** https://www.linkedin.com/in/tharindu-sembakutti-64a8781b8/  
-**GitHub:** https://github.com/TharinduSilva2019774  
 **Email:** tsembakutti@gmail.com  
 **Location:** London, UK
 
