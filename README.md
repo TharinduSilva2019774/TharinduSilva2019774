@@ -59,8 +59,7 @@ Java + AWS + React
 ---
 
 ## 📫 Reach Me
-**LinkedIn:** https://www.linkedin.com/in/tharindu-sembakutti-64a8781b8/  
-**Email:** tsembakutti@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/tharindu-sembakutti-64a8781b8/   
 **Location:** London, UK
 
 
