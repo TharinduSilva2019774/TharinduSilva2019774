@@ -1,32 +1,33 @@
 # Hi, I'm Tharindu Sembakutti 👋
 
-Software Engineering graduate (First Class Hons) with industry experience in AWS and full-stack development.  
-I build scalable, secure platforms — mainly with **Java/Spring**, **Python**, **React**, and **AWS**.
+Full-stack Software Engineer with strong backend experience in Java and Python, building cloud-native, scalable systems. Experienced with REST APIs, asynchronous workflows, and production deployments on AWS and GCP. Delivered secure and scalable applications during internships at Rootcode Labs and CommercePromote. Passionate about backend architecture, automation, and deploying production-ready solutions that improve performance and user experience. 
 
 ---
 
 ## 🧰 Core Skills
-**Backend** — Java (Spring Boot), Python (Flask/Django), .NET (C#)  
-**Frontend** — React, React Native, Next.js, TypeScript  
-**Cloud/DevOps** — AWS (Cognito, Lambda, Route53, EB, RDS), Google Cloud Run, Docker, CI/CD  
-**Data/ML** — Machine Learning, Deep Learning, VGG16  
-**DB** — MySQL, PostgreSQL, H2 (JPA, SQL)
+**Languages**: Java, Python, JavaScript, TypeScript, C#   
+**Frameworks & Libraries**: Spring boot, Django, Flask, ReactJS, React Native, ReactTs, .NET, NextJs  
+**Databases**: SQL MySQL, H2, Postgres  
+**Cloud & DevOps**: AWS (Cognito, Lambda, Route 53), GCP(Cloud run Cloud Build), GitHub Actions 
+**AI**: Machine Learning, Deep Learning, Agentic AI  
+**Other**: Docker, Git    
 
 ---
 
 ## 💼 Experience
 
 **Intern Software Engineer — Rootcode Labs (2022 Jun → 2023 Jul)**  
-- Designed multi-tenant backend architecture with AWS Cognito & Route53  
-- Built & tested scalable Spring Boot APIs (80%+ test coverage)  
-- Implemented & managed AWS Lambda for user operations  
-- Contributed across Java, React, AWS, MySQL stack
+- Built 50+ REST APIs using Java with 80%+ test coverage, improving reliability and reducing regressions in Spring Boot.  
+- Managed AWS Cognito (OAuth2) authentication for 100+ users within a multi-tenant setup.   
+- Designed a multi-tenant architecture using Cognito + Route 53 for automated subdomain provisioning. 
+- Created AWS Lambda functions for dynamic user data handling and automation.
+- Worked in a 10-member Agile team, contributing to sprints, code reviews, and documentation.
 
 **Software Intern — CommercePromote Inc (2021 Jun → 2021 Sep)**  
-- Built REST API using .NET  
-- Implemented UI in React + TypeScript  
-- Designed & managed SQL schema
-
+- Developed a .NET Core REST API integrated with a React + TypeScript front end. 
+- Built customer and repair management modules, improving workflow usability.  
+- Designed and maintained a SQL database ensuring performance and data integrity.
+- Contributed to a small agile team, delivering a functional prototype within 3 months. 
 ---
 
 ## 🔥 Selected Projects
@@ -46,21 +47,16 @@ React Native + Spring + ML
 - Regression model for calorie estimation  
 - Secured with Spring Security
 
-**MyLeave — B2B Workflow Platform (Company)**  
-Java + AWS + React  
-- Multi-tenant secure architecture  
-- OAuth2 with Cognito + Lambda + Route53
-
 ---
 
 ## 📜 Certificates
 - AI Python for Beginners — DeepLearning.AI
+- Agentic AI — DeepLearning.AI
+- ChatGPT Prompt Engineering for Developers — DeepLearning.AI
 
 ---
 
 ## 📫 Reach Me
 **LinkedIn:** https://www.linkedin.com/in/tharindu-sembakutti-64a8781b8/   
-**Location:** London, UK
-
 
 ---
