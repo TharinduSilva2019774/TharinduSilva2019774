@@ -17,35 +17,38 @@ Full-stack Software Engineer with strong backend experience in Java and Python, 
 ## 💼 Experience
 
 **Intern Software Engineer — Rootcode Labs (2022 Jun → 2023 Jul)**  
-- Built 50+ REST APIs using Java with 80%+ test coverage, improving reliability and reducing regressions in Spring Boot.  
-- Managed AWS Cognito (OAuth2) authentication for 100+ users within a multi-tenant setup.   
+- Built 50+ REST APIs using Java with 80%+ test coverage, improving reliability and reducing regressions in Spring Boot. 
+- Managed AWS Cognito (OAuth2) authentication for 100+ users within a multi-tenant setup. 
 - Designed a multi-tenant architecture using Cognito + Route 53 for automated subdomain provisioning. 
-- Created AWS Lambda functions for dynamic user data handling and automation.
-- Worked in a 10-member Agile team, contributing to sprints, code reviews, and documentation.
+- Created AWS Lambda functions for dynamic user data handling and automation. 
+- Worked in a 10-member Agile team, contributing to sprints, code reviews, and documentation. 
 
 **Software Intern — CommercePromote Inc (2021 Jun → 2021 Sep)**  
 - Developed a .NET Core REST API integrated with a React + TypeScript front end. 
-- Built customer and repair management modules, improving workflow usability.  
-- Designed and maintained a SQL database ensuring performance and data integrity.
+- Built customer and repair management modules, improving workflow usability. 
+- Designed and maintained a SQL database ensuring performance and data integrity. 
 - Contributed to a small agile team, delivering a functional prototype within 3 months. 
 ---
 
 ## 🔥 Selected Projects
 
-**BMHealth — Deep Learning BMI/BMR from Face**  
-Flask + Native + AWS + VGG16  
-- Predict BMI/BMR from image (MAE < 3 kg/m²)  
-- Cognito 2FA, CI/CD (CodePipeline), EB + RDS deploy
-
 **SEN — Real-time Chat System**  
-Next.js + Spring + MySQL + Cloud Run  
-- Realtime messaging, typing status, notifications  
-- Deployed with Docker & Cloud Build
+Git, Spring Boot, Java, NextJs, JavaScript, MySQL, GCP 
+- Full-stack chat app built with Next.js, Spring Boot, and MySQL, featuring real-time messaging, notifications, and typing indicators 
+via webhooks. 
+- Implemented secure authentication and authorization using JWT-based auth, with user management integrated via Clerk. 
+- Added end-to-end encryption (E2EE) to ensure message confidentiality and secure key exchange between users. 
+- Containerized and deployed the application on Google Cloud Run using Docker and Cloud Build for automated CI/CD pipelines.
+
+**BMHealth — Deep Learning BMI/BMR from Face**  
+Git, Flask, Python, ReactJS, JavaScript, MySQL, AWS, Machine Learning, Deep Learning
+- Deep-learning app using Flask, React Native, and a VGG16 model to predict BMI/BMR from facial images (MAE < 3kg/m²). 
+- Implemented AWS Cognito authentication with 2FA for
 
 **SlimFit — Weight Loss Guidance App**  
-React Native + Spring + ML  
-- Regression model for calorie estimation  
-- Secured with Spring Security
+Git, Spring boot, Java, Python, ReactJS, JavaScript, MySQL  
+- Mobile app (React Native + Spring Boot) guiding users through personalized fitness goals. 
+- Integrated a regression model to estimate calorie expenditure and used Spring Security for authentication and authorization
 
 ---
 
@@ -58,5 +61,5 @@ React Native + Spring + ML
 
 ## 📫 Reach Me
 **LinkedIn:** https://www.linkedin.com/in/tharindu-sembakutti-64a8781b8/   
-
+**Portfolio** https://tharindusilva2019774.github.io/
 ---
