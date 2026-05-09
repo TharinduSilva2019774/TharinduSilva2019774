@@ -30,7 +30,7 @@ Full-stack Software Engineer with strong backend experience in Java and Python, 
 - Contributed to a small agile team, delivering a functional prototype within 3 months. 
 ---
 
-## 🔥 Selected Projects
+## 🔥 Projects
 
 **SEN — Real-time Chat System**  
 Git, Spring Boot, Java, NextJs, JavaScript, MySQL, GCP 
